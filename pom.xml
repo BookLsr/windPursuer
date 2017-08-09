@@ -9,6 +9,7 @@
   <modules>
     <module>discovery</module>
     <module>service0</module>
+	  <module>service1</module>
   </modules>
   <!-- 配置资源库位置 -->
   <repositories>
